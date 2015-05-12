@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/n4nagappan/mangoos-backend",
   "dependencies": {
-    "restify": "^2.8.5"
+    "nconf": "^0.7.1",
+    "node-gcm": "^0.9.14",
+    "pg": "^4.2.0",
+    "request": "^2.51.0",
+    "restify": "^2.8.5",
+    "semantics3-node": "0.0.1"
   }
 }
